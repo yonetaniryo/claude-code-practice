@@ -10,6 +10,13 @@ This is a Python project that uses **uv** for dependency management and virtual 
 - **Package Manager**: uv (version 0.7.20)
 - **Lock File**: uv.lock (tracks exact dependency versions)
 
+### Installing uv
+
+First, install uv via pip:
+```bash
+pip install uv
+```
+
 ## Common Commands
 
 ### Running Code
